@@ -10,7 +10,7 @@ int main() {
     for(int i = 0; i < userInput; i++) {
       std::cout << std::endl;
     for(int x = 0; x < userInput; x++){
-    std::cout << " * ";
+    std::cout << "* ";
        }
     }
 }
